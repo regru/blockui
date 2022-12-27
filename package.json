@@ -1,4 +1,16 @@
 {
-  "name": "blockui",
-  "version": "2.7.0"
+  "name": "@regru/blockui",
+  "version": "2.7.0",
+  "description": "Simulate synchronous ajax by blocking - not locking - the UI. This plugin lets you block user interaction with the page or with a specific element on the page. Also great at displaying modal dialogs.",
+  "main": "jquery.blockUI.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regru/blockui.git"
+  },
+  "author": "Mike Alsup <malsup@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/regru/blockui/issues"
+  },
+  "homepage": "https://github.com/regru/blockui#readme"
 }
